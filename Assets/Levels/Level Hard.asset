@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f65b7d216e9a4104ebdcbcdd857f325f, type: 3}
+  m_Name: Level Hard
+  m_EditorClassIdentifier: 
+  name: Easy
+  rows: 3
+  columns: 3
+  cellVariations:
+  - name: R
+    sprite: {fileID: -6342808464625005154, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: S
+    sprite: {fileID: 8083504644574312765, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: U
+    sprite: {fileID: 3270655726746431581, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: V
+    sprite: {fileID: -2983290644488427326, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: O
+    sprite: {fileID: 5433449995169814141, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: Q
+    sprite: {fileID: -4447791616812998045, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: W
+    sprite: {fileID: -9165466868132007793, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: T
+    sprite: {fileID: -4461999128152558772, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: N
+    sprite: {fileID: 7112752472869403061, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: P
+    sprite: {fileID: -4252152113809563852, guid: 134bfe5419e55d540b08f858fbe7b8cb,
+      type: 3}
+  - name: C
+    sprite: {fileID: 3234300448368640894, guid: ebc0676e5f875d74091b77f60f6a630b,
+      type: 3}
+  - name: G
+    sprite: {fileID: 216406037199867053, guid: ebc0676e5f875d74091b77f60f6a630b, type: 3}
